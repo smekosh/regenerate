@@ -1,2 +1,3 @@
-# regenerate
-Custom WordPress theme
+# Regenerate WordPress theme
+
+Created for mekosh.org
